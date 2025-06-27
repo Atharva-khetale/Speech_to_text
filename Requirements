@@ -1,0 +1,7 @@
+speechrecognition==3.8.1
+pyaudio==0.2.13
+ttkthemes==3.2.2
+
+## **If pyaudio causes install issues on Windows, recommend users to use:**
+pip install pipwin
+pipwin install pyaudio
